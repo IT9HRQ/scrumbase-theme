@@ -1,1 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Catamaran:100,200|Raleway");
+#page-title, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Catamaran', sans-serif; }
 
+body {
+  color: #333;
+  font-size: 16px;
+  font-weight: 200;
+  font-family: 'Raleway', sans-serif; }
+
+#page-title {
+  font-size: 40px;
+  font-weight: 100; }
+
+@media (min-width: 1220px) {
+  #content-wrap {
+    max-width: 1200px;
+    padding: 0 35px;
+    margin: 0 auto; } }
